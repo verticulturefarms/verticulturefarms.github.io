@@ -1,0 +1,19 @@
+body {
+	background: black;
+	color: white;
+	font-size: 170%;
+}
+
+#wrapper {
+	padding-top: 10%;
+}
+
+
+#subtext {
+	padding-bottom: 2%;
+}
+
+h1 {
+	color: #1dc9c9;
+}
+
